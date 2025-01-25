@@ -1,2 +1,2 @@
-# merd
-MERD(Multi-source Event Recognition Dataset)
+# MERD(Multi-source Event Recognition Dataset)
+
